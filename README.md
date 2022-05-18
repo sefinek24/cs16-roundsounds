@@ -3,29 +3,29 @@ Ta paczka jest przeznaczona dla serwerów CS 1.6. Może być ona aktualizowana c
 Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejkolwiek aktualizacji. Nie jestem autorem żadnego z utworów w niniejszej paczce. Źródła muzyk znajdziesz w dokumencie tekstowym o nazwie [Lista utworów - Główne.txt](https://github.com/Skiffior/rsy-cs16-by-skiffior/blob/main/Roundsoundy/%5B1%5D%20G%C5%82%C3%B3wne%202021/Lista%20utwor%C3%B3w%20-%20G%C5%82%C3%B3wne.txt).  
   
 ## Lista utworów
-| Wykonawca                  | Utwór                                                                               | Prefiks     |
-|----------------------------|-------------------------------------------------------------------------------------|-------------|
-| Armin van Buuren           | Turn It Up                                                                          | Główne 2022 |
-| AronChupa, Little Sis Nora | Llama In My Living Room                                                             | Główne 2022 |
-| AWOLNATION                 | Sail                                                                                | Główne 2022 |
-| Bad Wolves                 | Zombie                                                                              | Główne 2022 |
-| Burak Yeter                | Tuesday                                                                             | Główne 2022 |
-| Hollywood Undead           | I Don't Wanna Die                                                                   | Główne 2022 |
-| Imagine Dragons            | Natural                                                                             | Główne 2022 |
-| Tommee Profitt             | In The End (Epic Cinematic Cover) feat. Fleurie & Jung Youth                        | Główne 2022 |
-| Remstage Music             | In the House, In a Heartbeat - John Murphy (28 Days Later Soundtrack) [Metal Remix] | Główne 2022 |
-| Linkin Park                | Numb                                                                                | Główne 2022 |
-| Rhino TV                   | Love Death and Robots // Alec Benjamin - let me down slowly                         | Główne 2022 |
-| Martin Garrix              | Animals                                                                             | Główne 2022 |
-| The Score                  | Stronger                                                                            | Główne 2022 |
-| twenty one pilots          | Jumpsuit                                                                            | Główne 2022 |
-|                            |                                                                                     |             |
-| Hollywood Undead           | Lion                                                                                | Wolny wybór |
-| Sarius                     | Wiking (prod. Gibbs)                                                                | Wolny wybór |
-| ScorpyArtZ - BassBoost     | Pirates of the Caribbean Remix (Froto Big Room Bootleg) [BASSBOOSTED]               | Wolny wybór |
-| John Murphy                | In the House, In a Heartbeat                                                        | Wolny wybór |
-| Starset                    | My Demons (Kang Remix)                                                              | Wolny wybór |
-| t.A.T.u.                   | All The Things She Said (Rusty Hook Remix)                                          | Wolny wybór |
+| Wykonawca                  | Utwór                                                                  | Prefiks     |
+|----------------------------|------------------------------------------------------------------------|-------------|
+| Armin van Buuren           | Turn It Up                                                             | Główne 2022 |
+| AronChupa, Little Sis Nora | Llama In My Living Room                                                | Główne 2022 |
+| AWOLNATION                 | Sail                                                                   | Główne 2022 |
+| Bad Wolves                 | Zombie                                                                 | Główne 2022 |
+| Burak Yeter                | Tuesday                                                                | Główne 2022 |
+| Hollywood Undead           | I Don't Wanna Die                                                      | Główne 2022 |
+| Imagine Dragons            | Natural                                                                | Główne 2022 |
+| Tommee Profitt             | In The End (Epic Cinematic Cover) feat. Fleurie & Jung Youth           | Główne 2022 |
+| Remstage Music             | In the House, In a Heartbeat - John Murphy (28 Days Later Soundtrack)  | Główne 2022 |
+| Linkin Park                | Numb                                                                   | Główne 2022 |
+| Rhino TV                   | Love Death and Robots // Alec Benjamin - let me down slowly            | Główne 2022 |
+| Martin Garrix              | Animals                                                                | Główne 2022 |
+| The Score                  | Stronger                                                               | Główne 2022 |
+| twenty one pilots          | Jumpsuit                                                               | Główne 2022 |
+|                            |                                                                        |             |
+| Hollywood Undead           | Lion                                                                   | Wolny wybór |
+| Sarius                     | Wiking (prod. Gibbs)                                                   | Wolny wybór |
+| ScorpyArtZ - BassBoost     | Pirates of the Caribbean Remix (Froto Big Room Bootleg)                | Wolny wybór |
+| John Murphy                | In the House, In a Heartbeat                                           | Wolny wybór |
+| Starset                    | My Demons (Kang Remix)                                                 | Wolny wybór |
+| t.A.T.u.                   | All The Things She Said (Rusty Hook Remix)                             | Wolny wybór |
 
 
 
