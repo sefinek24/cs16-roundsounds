@@ -1,6 +1,7 @@
 ## Roundsoundy CS 1.6 by Sefinek
 Ta paczka jest przeznaczona dla serwerów CS 1.6. Może być ona aktualizowana co kilka tygodni. Sprawdzaj tę stronę, aby być na bieżąco z aktualizacjami.
-Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejkolwiek aktualizacji. Nie jestem autorem żadnego z utworów w niniejszej paczce. Źródła muzyk znajdziesz w dokumencie tekstowym o nazwie [Lista utworów - Główne.txt](https://github.com/Skiffior/rsy-cs16-by-skiffior/blob/main/Roundsoundy/%5B1%5D%20G%C5%82%C3%B3wne%202021/Lista%20utwor%C3%B3w%20-%20G%C5%82%C3%B3wne.txt).  
+Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejkolwiek aktualizacji. Nie jestem autorem żadnego z utworów w niniejszej paczce.  
+Źródła muzyk znajdziesz w dokumencie tekstowym o nazwie [Lista utworów - Główne.txt](https://github.com/sefinek24/cs16-roundsounds/blob/master/Roundsound/%5B1%5D%20Rok%202022/Lista%20utwor%C3%B3w.md).  
   
 ## Lista utworów
 | Wykonawca                  | Utwór                                                        | Prefiks     |
