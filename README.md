@@ -17,7 +17,6 @@ Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejk
 | Linkin Park                | Numb                                                                                | Główne 2022 |
 | Rhino TV                   | Love Death and Robots // Alec Benjamin - let me down slowly                         | Główne 2022 |
 | Martin Garrix              | Animals                                                                             | Główne 2022 |
-| ScorpyArtZ BassBoost       | Pirates of the Caribbean Remix (Froto Big Room Bootleg) [BASSBOOSTED]               | Główne 2022 |
 | The Score                  | Stronger                                                                            | Główne 2022 |
 | twenty one pilots          | Jumpsuit                                                                            | Główne 2022 |
 |                            |                                                                                     |             |
