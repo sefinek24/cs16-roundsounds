@@ -1,5 +1,5 @@
-## Muzyka podczas ładowania
+## 📃 Muzyka podczas ładowania
 
-1. A Hero Theme - MK2
-* Autor: Mr. BeeZy
-* Źródło: https://www.youtube.com/watch?v=-QIoK29jBD8
+| Nr. | Wykonawca | Utwór         | YouTube                                                |
+|-----|-----------|---------------|--------------------------------------------------------|
+| 1   | MK2       | A Hero Theme  | [Przejdź](https://www.youtube.com/watch?v=-QIoK29jBD8) |

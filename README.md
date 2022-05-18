@@ -47,7 +47,7 @@ Jeżeli spodobała Ci się paczka, daj stara temu repozytorium. Pozdrawiam.
 
 ```
 Wersja                : v1.0
-Ostatnia aktualizacja : 18.05.2021 r.
+Ostatnia aktualizacja : 18.05.2022 roku
 Autor paczki          : Sefinek
 Licencja              : Apache License 2.0
 ```
