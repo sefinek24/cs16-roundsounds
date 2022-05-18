@@ -46,8 +46,8 @@ W razie jakichkolwiek problemów lub spraw, utwórz nowy [Issue](https://github.
 Jeżeli spodobała Ci się paczka, daj stara temu repozytorium. Pozdrawiam.
 
 ```
-Wersja                : v1.0.0  
-Ostatnia aktualizacja : 18.05.2021 r.  
-Autor paczki          : Sefinek  
+Wersja                : v1.0
+Ostatnia aktualizacja : 18.05.2021 r.
+Autor paczki          : Sefinek
 Licencja              : Apache License 2.0
 ```
