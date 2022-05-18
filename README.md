@@ -1,34 +1,33 @@
 ## Roundsoundy CS 1.6 by Sefinek
 Ta paczka jest przeznaczona dla serwerów CS 1.6. Może być ona aktualizowana co kilka tygodni. Sprawdzaj tę stronę, aby być na bieżąco z aktualizacjami.
 Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejkolwiek aktualizacji. Nie jestem autorem żadnego z utworów w niniejszej paczce.  
-Źródła muzyk znajdziesz w dokumencie tekstowym o nazwie [Lista utworów - Główne.txt](https://github.com/sefinek24/cs16-roundsounds/blob/master/Roundsound/%5B1%5D%20Rok%202022/Lista%20utwor%C3%B3w.md).  
+Źródła muzyk znajdziesz w dokumencie o nazwie [Lista utworów.md](https://github.com/sefinek24/cs16-roundsounds/blob/master/Roundsound/%5B1%5D%20Rok%202022/Lista%20utwor%C3%B3w.md).  
   
 ## Lista utworów
-| Wykonawca                  | Utwór                                                        | Prefiks     |
-|----------------------------|--------------------------------------------------------------|-------------|
-| Armin van Buuren           | Turn It Up                                                   | Główne 2022 |
-| AronChupa, Little Sis Nora | Llama In My Living Room                                      | Główne 2022 |
-| AWOLNATION                 | Sail                                                         | Główne 2022 |
-| Bad Wolves                 | Zombie                                                       | Główne 2022 |
-| Burak Yeter                | Tuesday                                                      | Główne 2022 |
-| Hollywood Undead           | I Don't Wanna Die                                            | Główne 2022 |
-| Imagine Dragons            | Natural                                                      | Główne 2022 |
-| Tommee Profitt             | In The End (Epic Cinematic Cover) feat. Fleurie & Jung Youth | Główne 2022 |
-| Remstage Music             | In the House, In a Heartbeat - John Murphy                   | Główne 2022 |
-| Linkin Park                | Numb                                                         | Główne 2022 |
-| Rhino TV                   | Love Death and Robots // Alec Benjamin - let me down slowly  | Główne 2022 |
-| Martin Garrix              | Animals                                                      | Główne 2022 |
-| The Score                  | Stronger                                                     | Główne 2022 |
-| twenty one pilots          | Jumpsuit                                                     | Główne 2022 |
-|                            |                                                              |             |
-| Hollywood Undead           | Lion                                                         | Wolny wybór |
-| Sarius                     | Wiking (prod. Gibbs)                                         | Wolny wybór |
-| ScorpyArtZ - BassBoost     | Pirates of the Caribbean Remix (Froto Big Room Bootleg)      | Wolny wybór |
-| John Murphy                | In the House, In a Heartbeat                                 | Wolny wybór |
-| Starset                    | My Demons (Kang Remix)                                       | Wolny wybór |
-| t.A.T.u.                   | All The Things She Said (Rusty Hook Remix)                   | Wolny wybór |
-
-
+| Nr. | Wykonawca                  | Utwór                                                       | Grupa       |
+|-----|----------------------------|-------------------------------------------------------------|-------------|
+| 1   | Armin van Buuren           | Turn It Up                                                  | Rok 2022    |
+| 2   | AronChupa, Little Sis Nora | Llama In My Living Room                                     | Rok 2022    |
+| 3   | AWOLNATION                 | Sail                                                        | Rok 2022    |
+| 4   | Bad Wolves                 | Zombie                                                      | Rok 2022    |
+| 5   | Burak Yeter                | Tuesday ft. Danelle Sandoval                                | Rok 2022    |
+| 6   | Hollywood Undead           | I Don't Wanna Die                                           | Rok 2022    |
+| 7   | Imagine Dragons            | Natural                                                     | Rok 2022    |
+| 8   | Tommee Profitt             | In The End (Epic Cinematic Cover)                           | Rok 2022    |
+| 9   | Bohnes                     | Middle Finger                                               | Rok 2022    |
+| 10  | Przejdźin Park             | Numb                                                        | Rok 2022    |
+| 11  | Rhino TV                   | Love Death and Robots // Alec Benjamin - let me down slowly | Rok 2022    |
+| 12  | Martin Garrix              | Animals                                                     | Rok 2022    |
+| 13  | twenty one pilots          | Neon Gravestones                                            | Rok 2022    |
+| 14  | The Score                  | Stronger                                                    | Rok 2022    |
+| 15  | twenty one pilots          | Jumpsuit                                                    | Rok 2022    |
+|     |                            |                                                             |             |
+| 1   | Hollywood Undead           | Lion                                                        | Wolny wybór |
+| 2   | Sarius                     | Wiking                                                      | Wolny wybór |
+| 3   | ScorpyArtZ - BassBoost     | Pirates of the Caribbean Remix                              | Wolny wybór |
+| 4   | John Murphy                | In the House, In a Heartbeat                                | Wolny wybór |
+| 5   | Starset                    | My Demons (Kang Remix)                                      | Wolny wybór |
+| 6   | t.A.T.u.                   | All The Things She Said (Rusty Hook Remix)                  | Wolny wybór |
 
 ## Zawartość paczki
 1. Roundsoundy  
@@ -38,7 +37,7 @@ Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejk
 5. Ultimate sounds (w bonusie)  
 6. Muzyka podczas łączenia się z serwerem (w bonusie)  
   
-Tak, zdaję sobie sprawę z tego, że punkt czwarty jest trochę bezużyteczny. Pamiętaj — stworzyłem ten pliczek tylko przy okazji. (;
+> Tak, zdaję sobie sprawę z tego, że punkt czwarty jest trochę bezużyteczny. Pamiętaj — stworzyłem ten pliczek tylko przy okazji...
   
 ## Końcowe informacje
 Jeżeli spodobała Ci się paczka, daj stara temu repozytorium. Pozdrawiam.
