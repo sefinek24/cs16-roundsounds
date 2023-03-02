@@ -1,7 +1,7 @@
 ## Roundsoundy CS 1.6 by Sefinek
 Ta paczka jest przeznaczona dla serwerów CS 1.6. Może być ona aktualizowana co kilka tygodni. Sprawdzaj tę stronę, aby być na bieżąco z aktualizacjami.
 Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejkolwiek aktualizacji. Nie jestem autorem żadnego z utworów w niniejszej paczce.  
-Źródła muzyk znajdziesz w dokumencie o nazwie [Lista utworów.md](https://github.com/sefinek24/cs16-roundsounds/blob/master/Roundsound/%5B1%5D%20Rok%202022/Lista%20utwor%C3%B3w.md).  
+Źródła muzyk znajdziesz w dokumencie o nazwie [Lista utworów.md](Roundsound/%5B1%5D%20Rok%202022/Lista%20utwor%C3%B3w.md).  
   
 ## Lista utworów
 | Nr. | Wykonawca                  | Utwór                                        | Grupa       |
@@ -30,12 +30,12 @@ Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejk
 | 6   | t.A.T.u.                   | All The Things She Said (Rusty Hook Remix)   | Wolny wybór |
 
 ## Zawartość paczki
-1. Roundsoundy  
-2. Katalog o nazwie „Wolny wybór”. Jest tam zbiór utworów i Ty decydujesz, którą nutę chcesz wykorzystać na swój serwer.
-3. Plik RoundSound.ini  
-4. Cvary pod roundsoundy z paczki (przy okazji)  
-5. Ultimate sounds (w bonusie)  
-6. Muzyka podczas łączenia się z serwerem (w bonusie)  
+1. Round soundy.
+2. Katalog o nazwie „Wolny wybór”. Jest tam zbiór utworów i Ty decydujesz, którą nutę chcesz użyć na swoim serwerze.
+3. Plik RoundSound.ini.
+4. Cvary pod round soundy z paczki — przy okazji.
+5. Ultimate sounds — w bonusie.
+6. Muzyka podczas łączenia się z serwerem — w bonusie.
   
 > Tak, zdaję sobie sprawę z tego, że punkt czwarty jest trochę bezużyteczny. Pamiętaj — stworzyłem ten pliczek tylko przy okazji...
   
